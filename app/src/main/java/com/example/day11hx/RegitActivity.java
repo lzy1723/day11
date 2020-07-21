@@ -13,7 +13,7 @@ import com.hyphenate.exceptions.HyphenateException;
 
 public class RegitActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private String name = "";
+    private String name1 = "";
     /**
      * 请输入账号
      */
